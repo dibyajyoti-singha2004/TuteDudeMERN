@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+#shape {
+  height: 150px;
+  width: 150px;
+  background-color: aqua;
+  position: absolute;
+  display: none;
+}
